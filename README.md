@@ -1,4 +1,8 @@
-# React + Vite
+# To-do list using react
+- To use Hooks and fundamentals of React and get familar with it. 
+
+Live at :- 
+ ------------------ https://ak-todo-react.netlify.app ------------------
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
