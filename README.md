@@ -1,12 +1,7 @@
 # To-do list using react
 - To use Hooks and fundamentals of React and get familar with it. 
 
-Live at :- 
- ------------------ https://ak-todo-react.netlify.app ------------------
+# Live at :-  https://ak-todo-react.netlify.app 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ui is not that good and will be updated soon.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
